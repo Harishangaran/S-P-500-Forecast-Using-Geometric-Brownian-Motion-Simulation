@@ -18,4 +18,4 @@ Plot multiple stock forecast using GBM.
   W     :   array for brownian path
 
 # Sample Output
-  ![Sample output](The possible futures of S&P 500 Price.png)
+![Matplotlib output](/Figure_5.png)
