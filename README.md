@@ -18,4 +18,4 @@ Plot multiple stock forecast using GBM.
   W     :   array for brownian path
 
 # Sample Output
-![Matplotlib output](/Figure_5.png)
+![Matplotlib output](/The possible.png)
